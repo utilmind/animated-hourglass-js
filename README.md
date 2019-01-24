@@ -1,7 +1,7 @@
 # animated-hourglass-js
 JavaScript object to display small animated GIF of hourglass
 
-Live demo: http://www.utilmind.com/demos/2019/animated-hourglass/hourglass-demo.html
+Live demo: http://www.utilmind.com/demos/2019/animated-hourglass/
 
 Script to display/hide an animated GIF of hourglass under mouse pointer.
 
