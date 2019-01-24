@@ -1,4 +1,5 @@
-// animated hourglass
+// animated hourglass (c) 2019 utilmind
+
 (function(window) {
   'use strict';
 
